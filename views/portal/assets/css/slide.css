@@ -1,0 +1,129 @@
+#menu {
+    width: auto;
+}
+#menu * {
+    overflow: hidden;
+    white-space: nowrap;
+    text-align:left;
+}
+#menu a {
+    display: none;
+    opacity: 0;
+    width: 0px;
+    text-align:center;
+    padding-right: 0%;
+    margin-left:15px;
+    border-radius: 10px;
+
+    background-color:#c2185b;
+    color: whitesmoke;
+
+}
+#menu span {
+    display: inline-block;
+}
+
+#course {
+    width: auto;
+}
+#course * {
+    overflow: hidden;
+    white-space: nowrap;
+    text-align:left;
+}
+#course a {
+    display: none;
+    opacity: 0;
+    width: 0px;
+    text-align:center;
+    padding-right: 0%;
+    margin-left:15px;
+    border-radius: 10px;
+
+    background-color:#c2185b;
+    color: whitesmoke;
+
+
+}
+#course span {
+    display: inline-block;
+}
+
+#te {
+    width: auto;
+}
+#te * {
+    overflow: hidden;
+    white-space: nowrap;
+    text-align:left;
+}
+#te a {
+    display: none;
+    opacity: 0;
+    width: 0px;
+    text-align:center;
+    padding-right: 0%;
+    margin-left:15px;
+    border-radius: 10px;
+
+    background-color:#c2185b;
+    color: whitesmoke;
+
+
+}
+#te span {
+    display: inline-block;
+}
+
+#st {
+     width: auto;
+ }
+#st * {
+    overflow: hidden;
+    white-space: nowrap;
+    text-align:left;
+}
+#st a {
+    display: none;
+    opacity: 0;
+    width: 0px;
+    text-align:center;
+    padding-right: 0%;
+    margin-left:15px;
+    border-radius: 10px;
+
+    background-color:#c2185b;
+    color: whitesmoke;
+
+
+}
+#st span {
+    display: inline-block;
+}
+
+
+#un {
+    width: auto;
+}
+#un * {
+    overflow: hidden;
+    white-space: nowrap;
+    text-align:left;
+}
+#un a {
+    display: none;
+    opacity: 0;
+    width: 0px;
+    text-align:center;
+    padding-right: 0%;
+    margin-left:15px;
+    border-radius: 10px;
+
+    background-color:#c2185b;
+    color: whitesmoke;
+
+
+}
+#un span {
+    display: inline-block;
+}
